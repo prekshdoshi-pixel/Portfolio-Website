@@ -18,7 +18,7 @@ if page == 'Home':
     col1, col2 = st.columns([1,2])
     with col1:
         st.image(
-            image = Image.open('Dog.jpg'),
+            image = Image.open('Preksh_Picture.png'),
             caption='My Photo'
         )
     with col2:
