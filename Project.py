@@ -25,12 +25,30 @@ if page == 'Home':
         st.header('Preksh Doshi')
         st.subheader('Leaner | Observer | Coding')
         st.write('''
-        I am a dedicated and enthusiastic student who enjoys 
-        learning and participating in different activities. 
-        I am interested in creativity, technology, and collaborative work. 
-        I like taking on new challenges and continuously improving my skills 
-        while maintaining a positive attitude. I enjoy building innovative 
-        projects that are software to solve real world problems.
+        I am a dedicated and enthusiastic student who enjoys learning, 
+        exploring new ideas, and participating in a variety of activities 
+        that help me grow both academically and personally. I have a strong 
+        interest in creativity, technology, and collaborative work, and I 
+        enjoy finding innovative ways to combine these interests in meaningful 
+        projects and experiences.
+
+        I am always eager to take on new challenges because I believe they 
+        help me learn valuable skills, build confidence, and improve my 
+        problem-solving abilities. Whether I am working independently or as 
+        part of a team, I strive to stay focused, organized, and open-minded. 
+        I enjoy collaborating with others, exchanging ideas, and contributing 
+        positively to group discussions and projects.
+
+        Apart from academics, I enjoy exploring creative opportunities that allow 
+        me to express my ideas and imagination. I believe creativity and technology 
+        together can create impactful solutions and inspire new perspectives. I also 
+        value continuous learning and self-improvement, and I am always looking for 
+        opportunities to expand my knowledge, strengthen my skills, and gain new 
+        experiences.
+
+        With a positive attitude and a willingness to grow, I aim to make the most of 
+        every opportunity that comes my way while continuing to develop into a confident, 
+        responsible, and well-rounded individual.
         ''')
 #About Me Page
 elif page == 'About Me':
